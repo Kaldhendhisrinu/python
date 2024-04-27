@@ -1,0 +1,8 @@
+a = 110
+b = 256 
+c = 6350
+
+if( (a>100) and (b>100) and (c>100) ):
+    print("all are greater than 100")
+else:
+    print("not all are greater than 100")
